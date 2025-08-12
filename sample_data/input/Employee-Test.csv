@@ -1,0 +1,10 @@
+EmployeeID,FirstName,LastName,Department,Role,Salary,JoinDate
+E001,John,Doe,Engineering,Software Engineer,85000,2020-03-15
+,,,,,,
+E002,Jane,Smith,Marketing,Content Strategist,65000,2019-07-01
+E003,Alice,,Engineering,DevOps Engineer,92000,2021-06-23
+E004,Bob,Johnson,Sales,Account Manager,72000,
+E005,Emily,Davis,HR,HR Manager,,2018-01-10
+E006,Michael, Brown,Engineering,Data Scientist, 90000, 2022-09-10
+E007, ,Wilson,Finance,Accountant,78000,2020-12-01
+E008,Sarah,Connor, ,Manager,87000,2021-03-22
