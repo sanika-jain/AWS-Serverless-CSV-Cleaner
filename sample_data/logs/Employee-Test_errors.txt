@@ -1,0 +1,6 @@
+Skipped empty/comma-only row: ['', '', '', '', '', '', '']
+Skipped row with missing/null fields: ['E003', 'Alice', '', 'Engineering', 'DevOps Engineer', '92000', '2021-06-23']
+Skipped row with missing/null fields: ['E004', 'Bob', 'Johnson', 'Sales', 'Account Manager', '72000', '']
+Skipped row with missing/null fields: ['E005', 'Emily', 'Davis', 'HR', 'HR Manager', '', '2018-01-10']
+Skipped row with missing/null fields: ['E007', ' ', 'Wilson', 'Finance', 'Accountant', '78000', '2020-12-01']
+Skipped row with missing/null fields: ['E008', 'Sarah', 'Connor', ' ', 'Manager', '87000', '2021-03-22']
